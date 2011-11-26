@@ -4,6 +4,7 @@ gem 'rake'
 gem 'activerecord'
 gem 'sqlite3'
 gem 'sinatra'
+gem 'growl'
 
 group :test do
   gem 'rspec'
